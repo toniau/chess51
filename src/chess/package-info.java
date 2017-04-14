@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author Toni
+ *
+ */
+package chess;

@@ -1,0 +1,611 @@
+bR bN bB bQ bK bB bN bR 8
+bp bp bp bp bp bp bp bp 7
+   ##    ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    ##    ##    ## 4
+##    ##    ##    ##    3
+wp wp wp wp wp wp wp wp 2
+wR wN wB wQ wK wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: e2 e4
+
+bR bN bB bQ bK bB bN bR 8
+bp bp bp bp bp bp bp bp 7
+   ##    ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    ## wp ##    ## 4
+##    ##    ##    ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ wK wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: h7 h5
+
+bR bN bB bQ bK bB bN bR 8
+bp bp bp bp bp bp bp    7
+   ##    ##    ##    ## 6
+##    ##    ##    ## bp 5
+   ##    ## wp ##    ## 4
+##    ##    ##    ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ wK wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: e1 e2
+
+bR bN bB bQ bK bB bN bR 8
+bp bp bp bp bp bp bp    7
+   ##    ##    ##    ## 6
+##    ##    ##    ## bp 5
+   ##    ## wp ##    ## 4
+##    ##    ##    ##    3
+wp wp wp wp wK wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: h5 h4
+
+bR bN bB bQ bK bB bN bR 8
+bp bp bp bp bp bp bp    7
+   ##    ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    ## wp ##    bp 4
+##    ##    ##    ##    3
+wp wp wp wp wK wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: e2 e3
+
+bR bN bB bQ bK bB bN bR 8
+bp bp bp bp bp bp bp    7
+   ##    ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    ## wp ##    bp 4
+##    ##    wK    ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: h8 h5
+
+bR bN bB bQ bK bB bN ## 8
+bp bp bp bp bp bp bp    7
+   ##    ##    ##    ## 6
+##    ##    ##    ## bR 5
+   ##    ## wp ##    bp 4
+##    ##    wK    ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: e3 f3
+
+bR bN bB bQ bK bB bN ## 8
+bp bp bp bp bp bp bp    7
+   ##    ##    ##    ## 6
+##    ##    ##    ## bR 5
+   ##    ## wp ##    bp 4
+##    ##    ## wK ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: h5 f5
+
+bR bN bB bQ bK bB bN ## 8
+bp bp bp bp bp bp bp    7
+   ##    ##    ##    ## 6
+##    ##    ## bR ##    5
+   ##    ## wp ##    bp 4
+##    ##    ## wK ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+Check
+White's move: f3 e3
+
+bR bN bB bQ bK bB bN ## 8
+bp bp bp bp bp bp bp    7
+   ##    ##    ##    ## 6
+##    ##    ## bR ##    5
+   ##    ## wp ##    bp 4
+##    ##    wK    ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: d7 d5
+
+bR bN bB bQ bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ##    ##    ##    ## 6
+##    ## bp ## bR ##    5
+   ##    ## wp ##    bp 4
+##    ##    wK    ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: e4 d5
+
+bR bN bB bQ bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ##    ##    ##    ## 6
+##    ## wp ## bR ##    5
+   ##    ##    ##    bp 4
+##    ##    wK    ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: d8 d5
+
+bR bN bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ##    ##    ##    ## 6
+##    ## bQ ## bR ##    5
+   ##    ##    ##    bp 4
+##    ##    wK    ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: a2 a4
+
+bR bN bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ##    ##    ##    ## 6
+##    ## bQ ## bR ##    5
+wp ##    ##    ##    bp 4
+##    ##    wK    ##    3
+   wp wp wp    wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: b8 c6
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ## bQ ## bR ##    5
+wp ##    ##    ##    bp 4
+##    ##    wK    ##    3
+   wp wp wp    wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: a4 a5
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+wp    ## bQ ## bR ##    5
+   ##    ##    ##    bp 4
+##    ##    wK    ##    3
+   wp wp wp    wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: d5 a5
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+bQ    ##    ## bR ##    5
+   ##    ##    ##    bp 4
+##    ##    wK    ##    3
+   wp wp wp    wp wp wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: g2 g3
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+bQ    ##    ## bR ##    5
+   ##    ##    ##    bp 4
+##    ##    wK    wp    3
+   wp wp wp    wp    wp 2
+wR wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: a5 a1
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ##    ##    ##    bp 4
+##    ##    wK    wp    3
+   wp wp wp    wp    wp 2
+bQ wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: f2 f4
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ##    ##    wp    bp 4
+##    ##    wK    wp    3
+   wp wp wp    ##    wp 2
+bQ wN wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: a1 b1
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ##    ##    wp    bp 4
+##    ##    wK    wp    3
+   wp wp wp    ##    wp 2
+## bQ wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: b2 b4
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   wp    ##    wp    bp 4
+##    ##    wK    wp    3
+   ## wp wp    ##    wp 2
+## bQ wB wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: b1 c1
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   wp    ##    wp    bp 4
+##    ##    wK    wp    3
+   ## wp wp    ##    wp 2
+##    bQ wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: b4 b5
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+## wp ##    ## bR ##    5
+   ##    ##    wp    bp 4
+##    ##    wK    wp    3
+   ## wp wp    ##    wp 2
+##    bQ wQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: c1 d1
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+## wp ##    ## bR ##    5
+   ##    ##    wp    bp 4
+##    ##    wK    wp    3
+   ## wp wp    ##    wp 2
+##    ## bQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: b5 b6
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   wp bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ##    ##    wp    bp 4
+##    ##    wK    wp    3
+   ## wp wp    ##    wp 2
+##    ## bQ ## wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: d1 f1
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   wp bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ##    ##    wp    bp 4
+##    ##    wK    wp    3
+   ## wp wp    ##    wp 2
+##    ##    ## bQ wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: c2 c4
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   wp bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ## wp ##    wp    bp 4
+##    ##    wK    wp    3
+   ##    wp    ##    wp 2
+##    ##    ## bQ wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: f1 g1
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   wp bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ## wp ##    wp    bp 4
+##    ##    wK    wp    3
+   ##    wp    ##    wp 2
+##    ##    ##    bQ wR 1
+ a  b  c  d  e  f  g  h
+Check
+White's move: e3 e2
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   wp bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ## wp ##    wp    bp 4
+##    ##    ##    wp    3
+   ##    wp wK ##    wp 2
+##    ##    ##    bQ wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: g1 h1
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   wp bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ## wp ##    wp    bp 4
+##    ##    ##    wp    3
+   ##    wp wK ##    wp 2
+##    ##    ##    ## bQ 1
+ a  b  c  d  e  f  g  h
+
+White's move: e2 f2
+
+bR ## bB ## bK bB bN ## 8
+bp bp bp    bp bp bp    7
+   wp bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ## wp ##    wp    bp 4
+##    ##    ##    wp    3
+   ##    wp    wK    wp 2
+##    ##    ##    ## bQ 1
+ a  b  c  d  e  f  g  h
+
+Black's move: a7 b6
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   bp bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ## wp ##    wp    bp 4
+##    ##    ##    wp    3
+   ##    wp    wK    wp 2
+##    ##    ##    ## bQ 1
+ a  b  c  d  e  f  g  h
+
+White's move: c4 c5
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   bp bN ##    ##    ## 6
+##    wp    ## bR ##    5
+   ##    ##    wp    bp 4
+##    ##    ##    wp    3
+   ##    wp    wK    wp 2
+##    ##    ##    ## bQ 1
+ a  b  c  d  e  f  g  h
+
+Black's move: b6 c5
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    bp    ## bR ##    5
+   ##    ##    wp    bp 4
+##    ##    ##    wp    3
+   ##    wp    wK    wp 2
+##    ##    ##    ## bQ 1
+ a  b  c  d  e  f  g  h
+
+White's move: d2 d4
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    bp    ## bR ##    5
+   ##    wp    wp    bp 4
+##    ##    ##    wp    3
+   ##    ##    wK    wp 2
+##    ##    ##    ## bQ 1
+ a  b  c  d  e  f  g  h
+
+Black's move: c5 d4
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ##    bp    wp    bp 4
+##    ##    ##    wp    3
+   ##    ##    wK    wp 2
+##    ##    ##    ## bQ 1
+ a  b  c  d  e  f  g  h
+
+White's move: h2 h3
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ##    bp    wp    bp 4
+##    ##    ##    wp wp 3
+   ##    ##    wK    ## 2
+##    ##    ##    ## bQ 1
+ a  b  c  d  e  f  g  h
+
+Black's move: h1 h3
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ##    bp    wp    bp 4
+##    ##    ##    wp bQ 3
+   ##    ##    wK    ## 2
+##    ##    ##    ##    1
+ a  b  c  d  e  f  g  h
+
+White's move: g3 g4
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ## bR ##    5
+   ##    bp    wp wp bp 4
+##    ##    ##    ## bQ 3
+   ##    ##    wK    ## 2
+##    ##    ##    ##    1
+ a  b  c  d  e  f  g  h
+
+Black's move: f5 f4
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    bp    bR wp bp 4
+##    ##    ##    ## bQ 3
+   ##    ##    wK    ## 2
+##    ##    ##    ##    1
+ a  b  c  d  e  f  g  h
+Check
+White's move: f2 g1
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    bp    bR wp bp 4
+##    ##    ##    ## bQ 3
+   ##    ##    ##    ## 2
+##    ##    ##    wK    1
+ a  b  c  d  e  f  g  h
+
+Black's move: h3 g4
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    bp    bR bQ bp 4
+##    ##    ##    ##    3
+   ##    ##    ##    ## 2
+##    ##    ##    wK    1
+ a  b  c  d  e  f  g  h
+Check
+White's move: g1 h1
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    bp    bR bQ bp 4
+##    ##    ##    ##    3
+   ##    ##    ##    ## 2
+##    ##    ##    ## wK 1
+ a  b  c  d  e  f  g  h
+
+Black's move: d4 d3
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    ##    bR bQ bp 4
+##    ## bp ##    ##    3
+   ##    ##    ##    ## 2
+##    ##    ##    ## wK 1
+ a  b  c  d  e  f  g  h
+
+White's move: h1 h2
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    ##    bR bQ bp 4
+##    ## bp ##    ##    3
+   ##    ##    ##    wK 2
+##    ##    ##    ##    1
+ a  b  c  d  e  f  g  h
+
+Black's move: d3 d2
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    ##    bR bQ bp 4
+##    ##    ##    ##    3
+   ##    bp    ##    wK 2
+##    ##    ##    ##    1
+ a  b  c  d  e  f  g  h
+
+White's move: h2 h1
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    ##    bR bQ bp 4
+##    ##    ##    ##    3
+   ##    bp    ##    ## 2
+##    ##    ##    ## wK 1
+ a  b  c  d  e  f  g  h
+
+Black's move: d2 d1
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    ##    bR bQ bp 4
+##    ##    ##    ##    3
+   ##    ##    ##    ## 2
+##    ## bQ ##    ## wK 1
+ a  b  c  d  e  f  g  h
+Check
+White's move: h1 h2
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    ##    bR bQ bp 4
+##    ##    ##    ##    3
+   ##    ##    ##    wK 2
+##    ## bQ ##    ##    1
+ a  b  c  d  e  f  g  h
+
+Black's move: f4 f2
+
+bR ## bB ## bK bB bN ## 8
+## bp bp    bp bp bp    7
+   ## bN ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    ##    ## bQ bp 4
+##    ##    ##    ##    3
+   ##    ##    bR    wK 2
+##    ## bQ ##    ##    1
+ a  b  c  d  e  f  g  h
+Checkmate
+Black wins

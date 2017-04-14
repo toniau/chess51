@@ -1,0 +1,71 @@
+bR bN bB bQ bK bB bN bR 8
+bp bp bp bp bp bp bp bp 7
+   ##    ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    ##    ##    ## 4
+##    ##    ##    ##    3
+wp wp wp wp wp wp wp wp 2
+wR wN wB wQ wK wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: e2 e4
+
+bR bN bB bQ bK bB bN bR 8
+bp bp bp bp bp bp bp bp 7
+   ##    ##    ##    ## 6
+##    ##    ##    ##    5
+   ##    ## wp ##    ## 4
+##    ##    ##    ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ wK wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: f7 f5
+
+bR bN bB bQ bK bB bN bR 8
+bp bp bp bp bp    bp bp 7
+   ##    ##    ##    ## 6
+##    ##    ## bp ##    5
+   ##    ## wp ##    ## 4
+##    ##    ##    ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ wK wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: e4 e5
+
+bR bN bB bQ bK bB bN bR 8
+bp bp bp bp bp    bp bp 7
+   ##    ##    ##    ## 6
+##    ##    wp bp ##    5
+   ##    ##    ##    ## 4
+##    ##    ##    ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ wK wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+Black's move: g7 g5
+
+bR bN bB bQ bK bB bN bR 8
+bp bp bp bp bp    ## bp 7
+   ##    ##    ##    ## 6
+##    ##    wp bp bp    5
+   ##    ##    ##    ## 4
+##    ##    ##    ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB wQ wK wB wN wR 1
+ a  b  c  d  e  f  g  h
+
+White's move: d1 h5
+
+bR bN bB bQ bK bB bN bR 8
+bp bp bp bp bp    ## bp 7
+   ##    ##    ##    ## 6
+##    ##    wp bp bp wQ 5
+   ##    ##    ##    ## 4
+##    ##    ##    ##    3
+wp wp wp wp    wp wp wp 2
+wR wN wB    wK wB wN wR 1
+ a  b  c  d  e  f  g  h
+Checkmate
+White wins
